@@ -2,6 +2,6 @@
 
 int main(){
 
-	printf("Hello my name is Mwansa Sikanyika\n");
+	printf("Goodbye, I finished my CS256 HW01\n");
 	return 0;
 }
